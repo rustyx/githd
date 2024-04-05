@@ -3,7 +3,7 @@
     "displayName": "Git History Diff",
     "description": "View git history. View diff of committed files. View git blame info. View stash details.",
     "version": "2.3.4",
-    "publisher": "huizhou",
+    "publisher": "rustyx",
     "author": {
         "name": "Hui Zhou",
         "email": "zhou_hui@outlook.com"
